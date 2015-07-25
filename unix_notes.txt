@@ -65,3 +65,5 @@
    65  ls
    66  cd
    67  history > newhistory.txt
+
+   This is the end of my history.
