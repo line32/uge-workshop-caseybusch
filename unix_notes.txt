@@ -1,0 +1,67 @@
+    1  echo $EDITOR
+    2  echo $PATH
+    3  git --version
+    4  git config --global user.name 'Casey Busch'
+    5  git config --global user.email 'efex32@hotmail.com'
+    6  curl -fsSL http://git.io/7UHtNA | sh
+    7  curl -fsSL http://git.io/Fasb | sh
+    8  subl
+    9  pwd
+   10  cd Desktop
+   11  cd ..
+   12  cd /c
+   13  pwd
+   14  cd Users
+   15  cd cbusch
+   16  cd /c
+   17  ls
+   18  ls -t
+   19  ls -a
+   20  ls -t
+   21  ls -l
+   22  ls -l
+   23  ls -ls
+   24  ls -lt
+   25  ls -r
+   26  ls -r-l
+   27  ls -rl
+   28  man
+   29  man ls
+   30  help
+   31  --help
+   32  ls --help
+   33  cd Users
+   34  cd cbusch
+   35  cd /c
+   36  cd ~
+   37  ls -l
+   38  ls
+   39  cd downloads
+   40  ls
+   41  pwd
+   42  cd school
+   43  ls
+   44  cd ~
+   45  cd downloads
+   46  cd ..
+   47  cd downloads
+   48  cd
+   49  ls -t
+   50  ..
+   51  cd ..
+   52  cd ..
+   53  ls -l
+   54  cd
+   55  cd ..
+   56  cd ..
+   57  ~
+   58  history
+   59  history
+   60  history | less
+   61  history > my_history.txt
+   62  ls
+   63  pwd
+   64  subl my_history.txt
+   65  ls
+   66  cd
+   67  history > newhistory.txt
