@@ -1,0 +1,20 @@
+
+git init
+
+git add
+git commit -m "message"
+
+git status
+git log
+
+git show (commit number)
+-shows the actual text of the change
+
+git branch (branch name)
+-creates new branch
+
+git checkout (branch name)
+-changes head to named branch
+
+add a key, there are instructions on the git help site
+
