@@ -1,0 +1,11 @@
+
+git init
+
+git add
+git commit -m "message"
+
+git status
+git log
+
+git show (commit number)
+-shows the actual text of the change
