@@ -18,3 +18,4 @@ git checkout (branch name)
 
 add a key, there are instructions on the git help site
 
+HERE IS SOME ADDED STUFF
